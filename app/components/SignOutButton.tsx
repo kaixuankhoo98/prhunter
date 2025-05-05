@@ -5,7 +5,6 @@ import { Button } from './ui/button'
 import { Text } from './ui/text'
 import { Dialog, DialogContent, DialogFooter, DialogHeader, DialogTitle, DialogDescription, DialogOverlay } from './ui/dialog'
 import { View } from 'react-native'
-import { Home } from '~/lib/icons/Home'
 
 export const SignOutButton: FC = () => {
   const { signOut } = useClerk();

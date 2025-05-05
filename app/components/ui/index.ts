@@ -6,3 +6,7 @@ export { Input } from './input';
 export { Progress } from './progress';
 export { Text, TextClassContext } from './text';
 export { Tooltip, TooltipTrigger, TooltipContent } from './tooltip'; 
+export { Select, SelectTrigger, SelectContent, SelectItem, SelectValue } from './select';
+export { SelectInput } from './selectinput';
+export { Alert, AlertTitle, AlertDescription } from './alert';
+export { Modal } from './modal';
